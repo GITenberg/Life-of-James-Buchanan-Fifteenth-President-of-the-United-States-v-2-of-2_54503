@@ -1,0 +1,30 @@
+_repo: Life-of-James-Buchanan-Fifteenth-President-of-the-United-States-v-2-of-2_54503
+_version: 0.0.1
+alternative_title: Life of James Buchanan, 15th President of the United States. v.
+  2 (of 2)
+creator:
+  author:
+    agent_name: Curtis, George Ticknor
+    aliases:
+    - Boylston, Peter
+    - Curtis, George Tickner
+    birthdate: 1812
+    deathdate: 1894
+    gutenberg_agent_id: '40607'
+    url: http://www.gutenberg.org/2009/agents/40607
+description: ''
+gutenberg_issued: '2017-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54503'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Buchanan, James, 1791-1868'
+- !lcc 'E300'
+- GITenberg
+title: Life of James Buchanan, Fifteenth President of the United States. v. 2 (of
+  2)
+url: http://www.gutenberg.org/ebooks/54503
