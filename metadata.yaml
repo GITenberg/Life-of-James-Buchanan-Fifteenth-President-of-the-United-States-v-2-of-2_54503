@@ -1,7 +1,10 @@
 _repo: Life-of-James-Buchanan-Fifteenth-President-of-the-United-States-v-2-of-2_54503
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Life of James Buchanan, 15th President of the United States. v.
   2 (of 2)
+covers:
+- cover_type: archival
+  image_path: 54503-h/images/cover.jpg
 creator:
   author:
     agent_name: Curtis, George Ticknor
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '40607'
     url: http://www.gutenberg.org/2009/agents/40607
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54503#Life-of-James-Buchanan-Fifteenth-President-of-the-United-States-v-2-of-2
 gutenberg_issued: '2017-04-07'
 gutenberg_type: Text
 identifiers:
